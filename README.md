@@ -31,7 +31,7 @@ weather-py/
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/MateusjsSilva/weather-data-fetcher.git
+    git clone git@github.com:MateusjsSilva/weather-data-fetcher.git
     cd weather-data-fetcher/src
     ```
 2. **Create and activate a virtual environment:**
